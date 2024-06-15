@@ -1,1 +1,1 @@
-puts "New ruby program"
+puts "Hello"
